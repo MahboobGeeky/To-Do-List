@@ -12,12 +12,18 @@ A fully functional To-Do List application built using HTML, CSS, and JavaScript.
 ##🚀 Features
 
 Add new tasks
+
 Delete tasks
+
 Persistent storage (localStorage)
+
 Click sound feedback
+
 Clean and responsive UI
 
 ## 🛠 Tech Stack
 HTML
+
 CSS
+
 JavaScript (Vanilla JS)
